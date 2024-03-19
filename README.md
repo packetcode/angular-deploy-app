@@ -5,7 +5,7 @@ This is a sample Angular app that is used for testing deployment to various plat
 Running the app
 
 ```
-nvm use 16
+nvm use 18
 npm install
 ng serve
 ```
