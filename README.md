@@ -13,3 +13,4 @@ ng serve
 ### Youtube videos
 
 1. [Render](https://www.youtube.com/watch?v=yIEgUnvoDX8)
+2. [AWS Amplify](https://youtu.be/vxrOG9pk0e0)
